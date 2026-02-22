@@ -43,6 +43,8 @@ Malaa/
 
 Network Architecture
 
+<img width="1752" height="1302" alt="image" src="https://github.com/user-attachments/assets/162db561-292c-4d6c-ae2e-3afcf0edc659" />
+
 
 Resources Created
 
