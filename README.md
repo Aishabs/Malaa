@@ -46,6 +46,8 @@ Network Architecture
 <img width="1334" height="1180" alt="image" src="https://github.com/user-attachments/assets/4f67ff37-1fab-48b1-913c-cb0bb48f73a8" />
 
 
+
+
 Resources Created
 
 | Resource        | Description                              |
@@ -61,6 +63,8 @@ Resources Created
 | Route Tables    | Controls traffic routing                 |
 | Security Groups | Controls who can access what             |
 
+
+
 Security Rules I Applied
 
 | Component   | Ports      | Allowed From   |
@@ -69,6 +73,8 @@ Security Rules I Applied
 | DMZ         | 80, 443    | Public LB only |
 | Servers     | 80, 443    | DMZ only       |
 | Database    | 8080, 26257 | Servers only   |
+
+
 
 Known Limitations
 
