@@ -72,6 +72,6 @@ Security Rules I Applied
 
 Known Limitations
 
-Load Balancers (ELB/ELBv2) are not supported in LocalStack Community edition. The Terraform code is correct and will work on real AWS, but could not be applied locally due to license restrictions.
+Load Balancers (ELB/ELBv2) are not supported in LocalStack Community edition, could not be applied locally due to license restrictions.
 
 Reference: [LocalStack Coverage](https://docs.localstack.cloud/references/coverage)
