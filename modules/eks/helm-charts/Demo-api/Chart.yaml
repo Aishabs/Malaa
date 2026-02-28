@@ -1,0 +1,6 @@
+apiVersion: v2
+name: demo-api
+description: Demo API for Phase 2
+type: application
+version: 1.0.0
+appVersion: "1.0"
